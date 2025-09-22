@@ -10,3 +10,6 @@
 
 ## DELETE
 <img width="1127" height="474" alt="image" src="https://github.com/user-attachments/assets/89b493c2-760b-4983-8c01-aef78cf27e1a" />
+
+## MONGODB
+<img width="1339" height="595" alt="image" src="https://github.com/user-attachments/assets/662121c2-60e5-4559-bd61-c5932c71215b" />
